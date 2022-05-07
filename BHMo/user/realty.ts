@@ -1,4 +1,4 @@
-import { facility } from "../basic/static-facility";
+import { facility } from "./land";
 
 interface realtyList {
     staticAgoraMapId: string;
