@@ -1,3 +1,5 @@
+// 🧑 여행자 > 여행자 장비 조회
+
 import { options } from "./items";
 
 interface equipData {
