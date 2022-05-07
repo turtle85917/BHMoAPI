@@ -1,3 +1,5 @@
+// 👪 서버 > 공동농장 조회
+
 import { farm } from "../user/farms";
 
 export interface guildCofarm {
