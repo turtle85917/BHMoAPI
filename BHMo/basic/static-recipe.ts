@@ -1,3 +1,5 @@
+// 🎈 기본 > 아이템 제작 방법 조회
+
 interface ingredients {
     [x: string]: number;
 }
