@@ -1,3 +1,5 @@
+// 🧑 여행자 > 여행자 인벤토리 조회
+
 type number_or_array = number | (number | string)[];
 
 export interface options {
