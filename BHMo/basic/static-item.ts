@@ -1,11 +1,13 @@
+// 🎈 기본 > 아이템 조회
+
 import { options } from "../user/items";
 
-export type categories = "box" | "crop" | "document" | "element" | "equipment-a" | "equipment-b" | "equipment-h" | "equipment-k" | "equipment-m" | "equipment-o" | "equipment-s" | "equipment-t" | "equipment-w" | "etc" | "food" | "resource" | "sapling";
+export type category = "box" | "crop" | "document" | "element" | "equipment-a" | "equipment-b" | "equipment-h" | "equipment-k" | "equipment-m" | "equipment-o" | "equipment-s" | "equipment-t" | "equipment-w" | "etc" | "food" | "resource" | "sapling";
 
 interface item {
     id: string;
     icon: string;
-    category: categories;
+    category: category;
     level: number;
     weight: number;
     options: options;
