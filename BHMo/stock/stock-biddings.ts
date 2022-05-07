@@ -1,3 +1,5 @@
+// 💸 주식 > 호가 조회
+
 interface biddings {
     type: "B" | "S";
     quantity: number;
