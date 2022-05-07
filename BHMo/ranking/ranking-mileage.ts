@@ -1,3 +1,5 @@
+// 🏆 랭킹 > 경험치 랭킹
+
 export interface userScore {
     rank: number;
     entity: {
