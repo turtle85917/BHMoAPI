@@ -1,4 +1,6 @@
-interface linkStats {
+// 🧑 여행자 > 여행자 조회
+
+interface Stats {
     mf: number;
     mr: number;
     pf: number;
@@ -28,7 +30,7 @@ interface linkData {
     maxLuggage: number;
     healAcceleration: number;
     buffs: { [x: string]: number };
-    stats: linkStats;
+    stats: Stats;
     level: number;
     inAgora: boolean;
     isGuest: boolean;
