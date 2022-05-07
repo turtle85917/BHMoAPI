@@ -5,9 +5,10 @@
 
 (Owner: **JJoriping**)
 
-
 [파란 머리 모레미 해보기 👆](https://discord.com/oauth2/authorize?client_id=870304475326332968&permissions=17180141632&scope=bot%20applications.commands)
 
+
+-
 
 
 디스코드 봇 "파란 머리 모레미" API 응답 결과 타입.
@@ -27,6 +28,8 @@ Blue Haired Moremi is discord bot.
 
 [Try Blue Haired Moremi 👆](https://discord.com/oauth2/authorize?client_id=870304475326332968&permissions=17180141632&scope=bot%20applications.commands)
 
+
+-
 
 
 Discord bot "Blue Haired Moremi" API Respond result type.
