@@ -6,7 +6,7 @@ interface realtyList {
     staticAgoraMapId: string;
     position: number[];
     gem: string;
-    facility: facility | null;
+    facility?: facility;
 }
 
 export interface realty {
