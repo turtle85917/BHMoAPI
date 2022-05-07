@@ -1,3 +1,5 @@
+// 🎈 기본 > 작물 조회
+
 interface Characteristics {
     growth: "slower" | "slow" | "average" | "fast";
     water: "low" | "medium" | "high";
