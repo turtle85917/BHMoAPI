@@ -1,3 +1,5 @@
+// 🧑 여행자 > 여행자 농장 조회
+
 export interface farm {
     staticCropId: string;
     status: 0 | 1 | 2 | 3;
