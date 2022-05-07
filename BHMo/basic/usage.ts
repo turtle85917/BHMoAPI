@@ -1,6 +1,8 @@
+// 🎈 기본 > 가스 소모량 조회
+
 interface past {
     time: number;
-    gase: number;
+    gas: number;
 }
 
 export interface usage {
