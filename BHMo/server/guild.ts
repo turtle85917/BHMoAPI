@@ -1,3 +1,5 @@
+// 👪 서버 > 서버 조회
+
 interface cofarm {
     id: string;
     harvests: number;
