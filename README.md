@@ -1,5 +1,8 @@
 # BHMoAPI
 
+파란 머리 모레미는 디스코드 봇입니다.
+Blue Haired Moremi is discord bot.
+
 # Ko
 디스코드 봇 "파란 머리 모레미" API 응답 결과 타입.
 
