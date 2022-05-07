@@ -1,3 +1,5 @@
+// 🧑 여행자 > 여행자 영토 조회
+
 export interface facility {
     staticId: string;
     level: number;
