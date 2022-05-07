@@ -1,3 +1,5 @@
+// 💸 주식 > 최근 거래 조회
+
 interface recent {
     from?: string;
     to?: string;
