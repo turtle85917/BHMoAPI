@@ -1,3 +1,5 @@
+// 🎈 기본 > 시설물 조회
+
 export interface facilityOptions {
     maxWeight?: number;
     dimension?: number[];
