@@ -1,4 +1,4 @@
-interface facility {
+export interface facility {
     staticId: string;
     level: number;
     status: "fine" | "working" | "underConstruction" | "broken";
