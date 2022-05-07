@@ -1,3 +1,5 @@
+// 🏆 랭킹 > 서버별 경험치 합 수 랭킹
+
 export interface serverScore {
     rank: number;
     entity: {
