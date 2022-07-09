@@ -4,6 +4,6 @@ import { userScore } from "./ranking-mileage";
 
 export interface rankingAchievement {
     type: string;
-    version: string;
     list: userScore[];
+    version: string;
 }
