@@ -1,6 +1,6 @@
 // 🧑 여행자 > 여행자 인벤토리 조회
 
-export interface Items {
+interface Items {
   type: string;
   weight: number;
   maxWeight: number;

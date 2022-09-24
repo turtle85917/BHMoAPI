@@ -1,15 +1,13 @@
 // 🎈 기본 > 업적 조회
 
-interface AchievementData {
-  id: string;
-  point: number;
-  extends: string | null;
-  rarity: number;
-}
-
-export interface StaticAchievement {
+interface StaticAchievement {
   type: string;
   version: string;
-  data: AchievementData;
+  data: {
+    id: string;
+    point: number;
+    extends: string | null;
+    rarity: number;
+  };
   names: Locale;
 }

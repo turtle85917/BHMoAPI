@@ -1,6 +1,6 @@
 // 🎈 기본 > 가스 소모량 조회
 
-export interface Usage {
+interface Usage {
   type: string;
   current: number;
   past: {
